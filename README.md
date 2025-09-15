@@ -5,9 +5,6 @@
 
 Clone the repository
 
-```bash
-git clonehttps://github.com/faizurrahman59/Clinical-AI-Assistant.git
-```
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
