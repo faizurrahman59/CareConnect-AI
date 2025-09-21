@@ -1,4 +1,22 @@
-# Clinical-Chatbot-with-LLMs-LangChain-Pinecone-Flask
+# Care Connect AI 🏥🤖  
+**AI-Powered Medical Assistant**
+
+---
+
+## 📌 Project Overview  
+Care Connect AI is an intelligent **AI-powered medical assistant** designed to help users access reliable healthcare information and basic medical support. It leverages **Natural Language Processing (NLP)** and **machine learning** to understand user queries, provide medical insights, and assist patients with symptom checking, health recommendations, and connecting to doctors.  
+
+The goal of this project is to **bridge the gap between patients and healthcare providers** by offering quick, accessible, and user-friendly medical guidance.
+
+---
+
+## 🚀 Features  
+- ✅ Symptom-based medical suggestions  
+- ✅ AI-driven chatbot interface  
+- ✅ Integration with medical knowledge base  
+- ✅ User-friendly web interface (Flask/React/Other)  
+- ✅ Secure handling of patient queries  
+- ✅ Future-ready: integration with telemedicine & wearable devices  
 
 # How to run?
 ### STEPS:
